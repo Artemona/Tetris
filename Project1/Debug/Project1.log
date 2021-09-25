@@ -1,0 +1,9 @@
+﻿  tetris.cpp
+c:\users\new\source\repos\project1\project1\tetris.cpp(144): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\new\source\repos\project1\project1\tetris.cpp(216): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\new\source\repos\project1\project1\tetris.cpp(247): warning C4305: =: усечение из "double" в "float"
+c:\users\new\source\repos\project1\project1\tetris.cpp(272): warning C4305: =: усечение из "double" в "float"
+c:\users\new\source\repos\project1\project1\tetris.cpp(354): warning C4305: =: усечение из "double" в "float"
+c:\users\new\source\repos\project1\project1\tetris.cpp(372): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\new\source\repos\project1\project1\tetris.cpp(420): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project1.vcxproj -> C:\Users\New\source\repos\Project1\Debug\Project1.exe
